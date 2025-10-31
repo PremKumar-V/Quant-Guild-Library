@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **60.** [Is Trading Gambling? Quant Proves It's Not With Math](https://youtu.be/GvX8Ragl3ZU)
+- **60.** [Is Trading Gambling? Quant Proves It's Not With Math & Logic](https://youtu.be/GvX8Ragl3ZU)
 - **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
 
 **Previous:**
