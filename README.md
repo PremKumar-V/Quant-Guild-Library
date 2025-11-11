@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **63.** [Neural Networks for Quant Finance](https://youtu.be/Gyfa3aBJiwE)
+- **63.** [Neural Networks for Quant Finance](https://youtu.be/n5acv8R-lN8)
 
 **Previous:**
 - **62.** [My Life as a Quant](https://youtu.be/n1Z90Iwc_co)
