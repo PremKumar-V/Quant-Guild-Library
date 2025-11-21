@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **66.** [How I Cracked the Quant Interview](https://youtu.be/Cb88vZUsnDM)
+- **66.** [How I Cracked the Quant Interview](https://youtu.be/vygK0EXY8ZI)
 - **65.** [Natural Language Processing (NLP) for Quant Trading](https://youtu.be/6llKh4kQBYs)
 
 **Previous:**
