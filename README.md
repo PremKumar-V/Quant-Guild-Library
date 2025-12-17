@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **74.** [74. How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers Part 2](https://youtu.be/CkXljL6eI5A)
+- **74.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers Part 2](https://youtu.be/CkXljL6eI5A)
 - **73.** [How to Price Options with Monte Carlo Simulation](https://youtu.be/2-VRYBKfoyE)
 
 **Previous:**
