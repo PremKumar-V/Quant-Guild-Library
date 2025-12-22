@@ -18,7 +18,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 **Latest:**
 - **76.** [I Built the Quant Roadmap](https://youtu.be/kLJEXE5_7rI)
-- **75.** [Quant Explains Proper Backtesting with Poker](https://youtu.be/ThkQLGhiMDU)
+- **75.** [Quant Explains Backtesting: The Poker Framework](https://youtu.be/xJJ1nWj9Rto)
 
 **Previous:**
 - **74.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 2](https://youtu.be/CkXljL6eI5A)
