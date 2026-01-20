@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
-- **81.** [Why Most Traders Lose: Ergodicity for Quant Trading](https://youtu.be/dryV1qJYUw8)
+- **83.** [Quant Explains Risk-Neutral Option Pricing](https://youtu.be/wYpg0TGxvgM)
 
 **Previous:**
+- **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
+- **81.** [Why Most Traders Lose: Ergodicity for Quant Trading](https://youtu.be/dryV1qJYUw8)
 - **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
 - **79.** [My Approach to Solving Quant Interview Questions (Optiver Example)](https://youtu.be/pyD-zXuP8Qo)
 - **78.** [Quant Explains Alpha in 3 Minutes](https://youtu.be/Ivz58kZLD2U)
