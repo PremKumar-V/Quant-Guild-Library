@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **84.** [How to Build a Live Volatility Surface in Python (Interactive Brokers)](https://youtu.be/5JEeAsQqlro)
 - **83.** [Quant Explains Risk-Neutral Option Pricing](https://youtu.be/wYpg0TGxvgM)
 
 **Previous:**
