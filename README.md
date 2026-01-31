@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **86.** [5 Projects that Made me a Quant](https://youtu.be/TVeu2huSdUk)
+- **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
 - **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
 
 **Previous:**
