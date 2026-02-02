@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
-- **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
+- **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
 
 **Previous:**
+- **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
+- **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
 - **84.** [How to Build a Live Volatility Surface in Python (Interactive Brokers)](https://youtu.be/5JEeAsQqlro)
 - **83.** [Quant Explains Risk-Neutral Option Pricing](https://youtu.be/wYpg0TGxvgM)
 - **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
